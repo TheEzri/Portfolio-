@@ -26,4 +26,4 @@ I am passionate about using data to uncover insights, identify trends and suppor
 
 ## Contact
 
-[![WhatsApp](https://cdn.simpleicons.org/whatsapp/25D366)](https://wa.me/2348128934787)
+https://wa.me/2348128934787
