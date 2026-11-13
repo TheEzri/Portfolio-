@@ -1,5 +1,5 @@
 
-# Ezri | Data Analytics Portfolio
+# Ezri Portfolio
 
 Welcome to my Data Analytics Portfolio!
 
