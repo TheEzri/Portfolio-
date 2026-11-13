@@ -1,15 +1,15 @@
 
----
-title: Home
----
 
-# Ezri | Data Analyst
+Home
+
+
+# Ezri 
 
 <img src="./file_00000000ef3081f483bcf211b84c1ed4.png" alt="Ezri - Data Analyst" width="180">
 
 ## About Me
 
-I am passionate about using data to uncover insights, identify trends and support better business decisions.
+I am a Data Analyst passionate about using data to uncover insights, identify trends and support better business decisions.
 
 ## Skills
 
