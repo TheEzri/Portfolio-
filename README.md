@@ -22,4 +22,4 @@ More projects will be added as I continue developing my data analytics skills.
 
 ## Portfolio Website
 
-Visit my portfolio website: [Ezri | Data Analyst](YOUR-WEBSITE-LINK)
+Visit my portfolio website: [Ezri Portfolio](https://theezri.github.io/Portfolio-/)
