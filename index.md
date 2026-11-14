@@ -22,7 +22,7 @@ I am a Data Analyst passionate about using data to uncover insights, identify tr
 
 ## Projects
 
-[Explore My Projects](./Projects/)
+[Explore My Projects](./Projects.html)
 
 ## Contact
 
