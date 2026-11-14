@@ -1,15 +1,44 @@
-# My Data Analytics Projects
+---
+title: Restaurant Sales Analysis
+---
 
-Welcome to my data analytics project portfolio.
+# Restaurant Sales Analysis – Q1 2023
 
-Here you can explore my practical projects, including data cleaning, analysis, visualisation and business insights.
+## Project Overview
 
-## Available Projects
+This project analyses restaurant sales data for the first quarter of 2023 (January–March) to uncover sales trends, identify top-performing menu items and understand customer purchasing patterns.
 
-### 1. Restaurant Sales Analysis – Q1 2023
+## Tools Used
 
-An analysis of restaurant sales data using Microsoft Excel and Power BI to identify revenue trends, top-performing menu items and business opportunities.
+- Microsoft Excel
+- Microsoft Power BI
 
-[View Project](./Restaurant-Sales-Analysis-Q1-2023/)
+## Dataset
 
-More projects will be added as I continue developing my data analytics skills.
+- Original records: 12,234
+- Records retained: 12,097
+- Menu items analysed: 32
+
+## Key Findings
+
+- Total revenue: 159,217.90
+- Italian food generated the highest category revenue: 49,462.70.
+- March recorded the highest monthly revenue: 54,610.60.
+- Monday recorded the highest revenue among weekdays.
+- Afternoon generated the highest revenue: 78,489.90.
+- Korean Beef Bowl generated the highest revenue among menu items.
+
+## Business Recommendations
+
+- Maintain the quality and availability of popular Italian dishes.
+- Promote high-performing items such as Korean Beef Bowl and Hamburger.
+- Investigate lower Wednesday and morning sales.
+- Monitor monthly sales trends to identify growth opportunities.
+
+## Power BI Dashboard
+
+![Restaurant Sales Dashboard](Restaurant_Sales_Dashboard.png)
+
+## Project Files
+
+The Excel workbook and Power BI dashboard are available in this project repository.
