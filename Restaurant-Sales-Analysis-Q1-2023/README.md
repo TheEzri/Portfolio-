@@ -97,8 +97,8 @@ This project demonstrates how Excel and Power BI can be used to clean, analyse a
 
 ## Download Project Files
 
-- [Download Excel Workbook](./Restaurant_Sales_Analysis.xlsx)
-- [Download Power BI Dashboard](./Restaurant%20Sales%20Performance%20Dashboard.pbix)
+- [Download Excel Workbook](./Restaurant_Sales_Analysis.xlsx.xlsx)
+- [Download Power BI Dashboard](./Restaurant%20Sales%20Performance%20Dashboard.pbix.pbix)
 - [View Dashboard Screenshot](./Restaurant_Sales_Dashboard.png)
 
 More data analytics projects will be added as I continue developing my skills.
