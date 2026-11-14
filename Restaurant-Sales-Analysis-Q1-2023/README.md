@@ -95,4 +95,10 @@ The interactive Power BI dashboard presents key performance indicators, revenue 
 
 This project demonstrates how Excel and Power BI can be used to clean, analyse and visualise business data, uncover meaningful patterns and generate actionable recommendations.
 
+## Download Project Files
+
+- [Download Excel Workbook](./Restaurant_Sales_Analysis.xlsx)
+- [Download Power BI Dashboard](./Restaurant%20Sales%20Performance%20Dashboard.pbix)
+- [View Dashboard Screenshot](./Restaurant_Sales_Dashboard.png)
+
 More data analytics projects will be added as I continue developing my skills.
